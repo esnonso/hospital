@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hospital/static/css/main.552edad9.css",
+    "main.js": "/hospital/static/js/main.f629f3ff.js",
+    "static/media/banner.png": "/hospital/static/media/banner.1a81ebb293d51117643d.png",
+    "static/media/blossom heart.png": "/hospital/static/media/blossom heart.3d1ac2c1e797d2889f8b.png",
+    "static/media/nurse.png": "/hospital/static/media/nurse.7bfad230a4925260aadf.png",
+    "index.html": "/hospital/index.html",
+    "main.552edad9.css.map": "/hospital/static/css/main.552edad9.css.map",
+    "main.f629f3ff.js.map": "/hospital/static/js/main.f629f3ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.552edad9.css",
+    "static/js/main.f629f3ff.js"
+  ]
+}
